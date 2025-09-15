@@ -58,6 +58,24 @@ Linux is the most widely used operating system in the world. The core software c
 -   Each assignment is assigned a specific number of points based on its difficulty or importance. These points add up to a maximum of 100.
 -   To pass the course, students need to accumulate at least 65 points across assignments.
 
+# Course Schedule
+
+| ID  | Date         | Lesson                                 | Responsible |
+| --- | ------------ | -------------------------------------- | ----------- |
+| 1.a | Sep 15, 2025 | Introduction                           | Rado        |
+| 1.b | Sep 15, 2025 | Development environment setup          | Carlos      |
+| 2   | Sep 22, 2025 | Introduction to kernel structures      | Vrato       |
+| 3   | Sep 29, 2025 | Processes, syscalls, process scheduler | Rado        |
+| 4   | Oct 6, 2025  | Debugging 1                            | Vrato       |
+| 5   | Oct 13, 2025 | Filesystems                            | Carlos      |
+| 6   | Oct 20, 2025 | Memory                                 | Carlos      |
+| 7   | Oct 27, 2025 | Locking                                | Carlos      |
+| 8   | Nov 3, 2025  | Networking                             | Jirka       |
+| 9   | Nov 10, 2025 | Device drivers                         | Michal      |
+| 10  | Nov 24, 2025 | BPF                                    | Viktor      |
+| 11  | Dec 1, 2025  | Debugging 2                            | Vrato       |
+| 12  | Dec 8, 2025  | GPG signing party                      | Carlos      |
+
 # Special Thanks
 
 We would like to show our appreciation to the following people who have contributed to the course or without their help the course would not be existing:
