@@ -62,8 +62,8 @@ Linux is the most widely used operating system in the world. The core software c
 
 | ID  | Date         | Lesson                                 | Responsible |
 | --- | ------------ | -------------------------------------- | ----------- |
-| 1.a | Sep 15, 2025 | [Introduction](/slides/L01_Introduction.pdf)                           | Rado        |
-| 1.b | Sep 15, 2025 | [Development environment setup](/slides/L01_Development_Enviroment_Setup.pdf)          | Carlos      |
+| 1.a | Sep 15, 2025 | [Introduction](/lectures/L01_Introduction.pdf)                           | Rado        |
+| 1.b | Sep 15, 2025 | [Development environment setup](/lectures/L01_Development_Enviroment_Setup.pdf)          | Carlos      |
 | 2   | Sep 22, 2025 | Introduction to kernel structures      | Vrato       |
 | 3   | Sep 29, 2025 | Processes, syscalls, process scheduler | Rado        |
 | 4   | Oct 6, 2025  | Debugging 1                            | Vrato       |
