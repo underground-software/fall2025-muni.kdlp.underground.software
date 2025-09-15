@@ -78,9 +78,10 @@ Linux is the most widely used operating system in the world. The core software c
 
 # Assignments
 
-| ID | Responsible | Description                                           | Max points |
-| -- | ----------- | ----------------------------------------------------- | ---------- |
-| 1  | Rado        | [Kernel compilation](/assignments/A01_Custom_kernel.pdf)                                    | 10         |
+| ID | Description                                           | Max points | Due date     |
+| -- | ----------------------------------------------------- | ---------- | ------------ |
+| 1  | [Kernel compilation](/assignments/A01_Custom_kernel.pdf)                                    | 10         | Sep 28, 2025 |
+
 
 # Special Thanks
 
