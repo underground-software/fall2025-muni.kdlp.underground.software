@@ -76,6 +76,12 @@ Linux is the most widely used operating system in the world. The core software c
 | 11  | Dec 1, 2025  | Debugging 2                            | Vrato       |
 | 12  | Dec 8, 2025  | GPG signing party                      | Carlos      |
 
+# Assignments
+
+| ID | Responsible | Description                                           | Max points |
+| -- | ----------- | ----------------------------------------------------- | ---------- |
+| 1  | Rado        | [Kernel compilation](/assignments/A01_Custom_kernel.pdf)                                    | 10         |
+
 # Special Thanks
 
 We would like to show our appreciation to the following people who have contributed to the course or without their help the course would not be existing:
@@ -83,4 +89,4 @@ We would like to show our appreciation to the following people who have contribu
 - Martin Ukrop
 - Joel Sawitz
 - Jiri Benc
-- Michal Schmidt
+- Viktor Malik
