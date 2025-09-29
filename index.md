@@ -65,7 +65,7 @@ Linux is the most widely used operating system in the world. The core software c
 | 1.a | Sep 15, 2025 | [Introduction](/lectures/L01_Introduction.pdf)                           | Rado        |
 | 1.b | Sep 15, 2025 | [Development environment setup](/lectures/L01_Development_Enviroment_Setup.pdf)          | Carlos      |
 | 2   | Sep 22, 2025 | [Introduction to kernel structures](/lectures/L02_Basic_Intro_To_Linux_Kernel.pdf)      | Vrato       |
-| 3   | Sep 29, 2025 | Processes, syscalls, process scheduler | Rado        |
+| 3   | Sep 29, 2025 | [Processes, syscalls, process scheduler](/lectures/L03_Process_Management.pdf) | Rado        |
 | 4   | Oct 6, 2025  | Debugging 1                            | Vrato       |
 | 5   | Oct 13, 2025 | Filesystems                            | Carlos      |
 | 6   | Oct 20, 2025 | Memory                                 | Carlos      |
@@ -81,6 +81,7 @@ Linux is the most widely used operating system in the world. The core software c
 | ID | Description                                           | Max points | Due date     |
 | -- | ----------------------------------------------------- | ---------- | ------------ |
 | 1  | [Kernel compilation](/assignments/A01_Custom_kernel.pdf)                                    | 10         | Sep 28, 2025 |
+| 2  | [Custom Syscall](/assignments/A02_Custom_Syscall.pdf)                                       | 20         | Oct 12, 2025 |
 
 
 # Special Thanks
