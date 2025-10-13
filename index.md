@@ -82,6 +82,7 @@ Linux is the most widely used operating system in the world. The core software c
 | -- | ----------------------------------------------------- | ---------- | ------------ |
 | 1  | [Kernel compilation](/assignments/A01_Custom_kernel.pdf)                                    | 10         | Sep 28, 2025 |
 | 2  | [Custom Syscall](/assignments/A02_Custom_Syscall.pdf)                                       | 20         | Oct 12, 2025 |
+| 3  | [Implement operations within the toyfs filesystem](/assignments/A03_Implement_FSOps.pdf) | 25         | Oct 26, 2025  |
 
 
 # Special Thanks
