@@ -70,8 +70,8 @@ Linux is the most widely used operating system in the world. The core software c
 | 5   | Oct 13, 2025 | [Filesystems](/lectures/L05_Filesystems_And_Storage.pdf)                            | Carlos      |
 | 6   | Oct 20, 2025 | Memory                                 | Carlos      |
 | 7   | Oct 27, 2025 | Locking                                | Carlos      |
-| 8   | Nov 3, 2025  | Networking                             | Jirka       |
-| 9   | Nov 10, 2025 | Device drivers                         | Michal      |
+| 8   | Nov 3, 2025  | Device drivers                         | Michal      |
+| 9   | Nov 10, 2025 | Networking                             | Jirka       |
 | 10  | Nov 24, 2025 | BPF                                    | Viktor      |
 | 11  | Dec 1, 2025  | Debugging 2                            | Vrato       |
 | 12  | Dec 8, 2025  | GPG signing party                      | Carlos      |
