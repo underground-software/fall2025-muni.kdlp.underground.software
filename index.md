@@ -68,7 +68,7 @@ Linux is the most widely used operating system in the world. The core software c
 | 3   | Sep 29, 2025 | [Processes, syscalls, process scheduler](/lectures/L03_Process_Management.pdf) | Rado        |
 | 4   | Oct 6, 2025  | [Debugging 1](/lectures/L04_Kernel_Debugging_1.pdf)                            | Vrato       |
 | 5   | Oct 13, 2025 | [Filesystems](/lectures/L05_Filesystems_And_Storage.pdf)                            | Carlos      |
-| 6   | Oct 20, 2025 | Memory                                 | Carlos      |
+| 6   | Oct 20, 2025 | [Memory](/lectures/L06_Memory_Management.pdf)                                 | Carlos      |
 | 7   | Oct 27, 2025 | Locking                                | Carlos      |
 | 8   | Nov 3, 2025  | Device drivers                         | Michal      |
 | 9   | Nov 10, 2025 | Networking                             | Jirka       |
@@ -83,6 +83,7 @@ Linux is the most widely used operating system in the world. The core software c
 | 1  | [Kernel compilation](/assignments/A01_Custom_kernel.pdf)                                    | 10         | Sep 28, 2025 |
 | 2  | [Custom Syscall](/assignments/A02_Custom_Syscall.pdf)                                       | 20         | Oct 12, 2025 |
 | 3  | [Implement operations within the toyfs filesystem](/assignments/A03_Implement_FSOps.pdf) | 25         | Oct 26, 2025  |
+| 4  | [Change inode management to use slab caches](/assignments/A04_Implement_slabs.pdf) | 15         | Nov 03, 2025  |
 
 
 # Special Thanks
