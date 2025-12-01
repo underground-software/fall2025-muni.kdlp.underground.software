@@ -85,7 +85,7 @@ Linux is the most widely used operating system in the world. The core software c
 | 3  | [Implement operations within the toyfs filesystem](/assignments/A03_Implement_FSOps.pdf) | 25         | Oct 26, 2025  |
 | 4  | [Change inode management to use slab caches](/assignments/A04_Implement_slabs.pdf) | 15         | Nov 03, 2025  |
 | 5  | [Implement proper locking](/assignments/A05_Implement_Locking.pdf) | 15         | Nov 16, 2025 |
-| 6  | [Vmcore analysis](/assignments/A06_Vmcore_Analysis.pdf) [data archive (IS MUNI)](https://is.muni.cz/auth/of/fi/PB173/podzim2025/assignment-kdlp-muni_fall2025-vmcore.tar.xz) | 10         | Dec 15, 2025 |
+| 6  | [Vmcore analysis](/assignments/A06_Vmcore_Analysis.pdf) -- [data archive (IS MUNI)](https://is.muni.cz/auth/of/fi/PB173/podzim2025/assignment-kdlp-muni_fall2025-vmcore.tar.xz) | 10         | Dec 15, 2025 |
 
 
 # Special Thanks
