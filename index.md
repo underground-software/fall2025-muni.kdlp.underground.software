@@ -73,7 +73,7 @@ Linux is the most widely used operating system in the world. The core software c
 | 8   | Nov 3, 2025  | [Device drivers](/lectures/L08_Device_Drivers.pdf)                         | Michal      |
 | 9   | Nov 10, 2025 | [BPF](/lectures/L09_eBPF.pdf)                                    | Viktor      |
 | 10  | Nov 24, 2025 | Networking                             | Jirka       |
-| 11  | Dec 1, 2025  | Debugging 2                            | Vrato       |
+| 11  | Dec 1, 2025  | [Debugging 2](/lectures/L10_Kernel_Debugging_2.pdf)                            | Vrato       |
 | 12  | Dec 8, 2025  | GPG signing party                      | Carlos      |
 
 # Assignments
@@ -84,7 +84,8 @@ Linux is the most widely used operating system in the world. The core software c
 | 2  | [Custom Syscall](/assignments/A02_Custom_Syscall.pdf)                                       | 20         | Oct 12, 2025 |
 | 3  | [Implement operations within the toyfs filesystem](/assignments/A03_Implement_FSOps.pdf) | 25         | Oct 26, 2025  |
 | 4  | [Change inode management to use slab caches](/assignments/A04_Implement_slabs.pdf) | 15         | Nov 03, 2025  |
-| 5  | [Implement proper locking](assignments/A05_Implement_Locking.pdf) | 15         | Nov 16, 2025 |
+| 5  | [Implement proper locking](/assignments/A05_Implement_Locking.pdf) | 15         | Nov 16, 2025 |
+| 6  | [Vmcore analysis](/assignments/A06_Vmcore_Analysis.pdf) [data archive (IS MUNI)](https://is.muni.cz/auth/of/fi/PB173/podzim2025/assignment-kdlp-muni_fall2025-vmcore.tar.xz) | 10         | Dec 15, 2025 |
 
 
 # Special Thanks
