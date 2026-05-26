@@ -9,7 +9,7 @@ Linux is the most widely used operating system in the world. The core software c
 -   Mondays 14pm-16pm CET
 
 # Teachers
-- Carlos Maiolino <cem\<at>maiolino.dev>
+- Carlos Maiolino <cem\<at>toxiclabs.cc>
 - Vratislav Bendel <vbendel\<at>redhat.com>
 - Michal Schmidt <mschmidt\<at>redhat.com>
 - Radomir Vrbovsky <rvrbovsk\<at>redhat.com>
